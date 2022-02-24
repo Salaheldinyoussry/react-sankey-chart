@@ -6,8 +6,9 @@ react library to draw sankey diagram
 `npm i react-sankey-chart`
 
 # usage
-
+```
 <img src ='https://github.com/Salaheldinyoussry/react-sankey-chart/blob/master/example.JPG?raw=true' >
+```
 ```js
 import Sankey from "./Sankey";
 
