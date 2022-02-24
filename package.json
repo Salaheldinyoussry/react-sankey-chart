@@ -1,0 +1,44 @@
+{
+  "name": "react-sankey-chart",
+  "version": "1.0.2",
+  "description": "react component to plot sankey chart ",
+  "main": "./build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
+    "@babel/preset-react": "^7.7.4",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.3.0",
+    "style-loader": "^1.0.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^4.0.3",
+    "web-vitals": "^1.1.2",
+    "webcam": "^3.2.1",
+    "react-xarrows": "^2.0.0",
+    "jquery-plugin": "0.0.0-ignored",
+    "jquery": "3.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Salaheldinyoussry/react-sankey-chart.git"
+  },
+  "keywords": [
+    "sankey",
+    "react"
+  ],
+  "author": "Salaheldin Elsadek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Salaheldinyoussry/react-sankey-chart/issues"
+  },
+  "homepage": "https://github.com/Salaheldinyoussry/react-sankey-chart#readme"
+}
