@@ -13,7 +13,7 @@ react library to draw sankey diagram
 
 
 ```js
-import Sankey from "./Sankey";
+import Sankey from "react-sankey-chart";
 
 function App() {
 
